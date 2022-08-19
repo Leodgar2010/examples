@@ -13,7 +13,7 @@
         }
     return result;
  }
- var a= ArrayWith0and1();
+var a= ArrayWith0and1();
 for (int i = 0; i < 8; i++)
     Console.WriteLine (a[i]);
 
