@@ -28,8 +28,8 @@ for (int i = 0; i < array.Length; i++)
 }
 ChangePlaces(array);
 Console.WriteLine();
-for (int i = 0; i < array.Length; i++)
-{
-    Console.Write(array[i] + ",");
-}
+// for (int i = 0; i < array.Length; i++)
+// {
+//     Console.Write(array[i] + ",");
+// }
 Console.WriteLine (array);
